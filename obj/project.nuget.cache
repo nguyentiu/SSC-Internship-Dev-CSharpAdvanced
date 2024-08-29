@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "udKO3UvU7CLaFY9iCTX6lmZJrGtMk/52ufTA6MJOrwU5ZHUM1o8wcHibDhi+UQZZDwI52qsi/EHxJ9Bu0PEdmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nguye\\Desktop\\All\\Intern\\AdvancedExercises\\AdvancedExercises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
